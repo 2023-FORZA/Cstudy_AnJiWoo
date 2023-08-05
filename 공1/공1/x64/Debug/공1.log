@@ -1,3 +1,0 @@
-﻿  공.c
-C:\Users\wldn5\OneDrive\바탕 화면\Forza\공1\공1\공.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\wldn5\OneDrive\바탕 화면\Forza\공1\공1\공.c(10,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
